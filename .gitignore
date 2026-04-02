@@ -1,0 +1,9 @@
+# --- MISE A JOUR MAJDOLINE ---
+
+# Environnement Python
+env/
+__pycache__/
+
+# Fichiers de données (on ne met pas tes candidatures persos sur internet !)
+candidatures_majdoline.csv
+offres_deja_vues.txt
