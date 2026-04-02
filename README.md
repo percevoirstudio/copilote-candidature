@@ -12,7 +12,7 @@ Dans le cadre de ma recherche d'un poste de Développeuse Web en **100% Télétr
 
 Plutôt que de scroller manuellement, j'ai développé ce **Copilote IA**. Ce programme explore automatiquement les job boards, lit les descriptions à ma place, utilise l'intelligence artificielle pour débusquer les "faux" télétravails, et centralise les meilleures opportunités dans un Dashboard Next.js sur-mesure.
 
-![Aperçu du Dashboard](ma_premiere_capture.png) 
+![Aperçu du Dashboard](dashboard.jpg) 
 *(Aperçu de l'interface de gestion)*
 
 ## ✨ Fonctionnalités Principales
